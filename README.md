@@ -9,3 +9,6 @@ Restart functionality
 1. Clone this repo
 2. Open in Android Studio
 3. Build and run an emulator (Bluestacks)
+
+YouTube video to explain it:
+https://youtube.com/shorts/OzPETkQ5dFg?feature=share
